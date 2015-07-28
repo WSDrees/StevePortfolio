@@ -58,10 +58,10 @@
         </div>
 
         <div class="col-md-4">
-            <h3>Project Description</h3>
+            <h3 class="text-center">Project Description</h3>
             <p class="text-justify">With a database containing over 600,000 records of orbital elements, that contain headings, and information that may be difficult to read, and interpret. We have added the data into a non-relational database that can parse and give us greater querying capabilities. We have created a group of 1000, of the closest NEAs scaled down to a 1:275,000km, starting from the closest and moving to the furthest NEA. Also with administrative capability to modify all of the data inserted and exported out of the database.</p>
 
-            <h3>Project Details</h3>
+            <h3 class="text-center">Project Details</h3>
             <ul>
                 <li>Comets</li>
                 <li>NEAs</li>
@@ -81,25 +81,23 @@
             <h3 class="page-header">Press information: </h3>
         </div>
 
-        <div class="col-sm-3 col-xs-6">
+        <div class="col-lg-3 col-sm-3 col-xs-12">
             <a href="https://projectunkown-vcabieles.c9.io/" target="_blank">
                 <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
             </a>
         </div>
 
-        <div class="col-sm-3 col-xs-6">
+        <div class="col-lg-3 col-sm-3 col-xs-12">
             <a href="http://spaceappsksc.tumblr.com/post/116303202714/space-apps-weekend-in-central-florida" target="_blank">
                 <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
             </a>
         </div>
 
-        <div class="col-sm-3 col-xs-6">
-            <a href="#">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
+        <div class="col-lg-3 col-sm-3 col-xs-12">
+            <iframe class="img-responsive img-hover img-related" src="https://www.youtube.com/embed/GpAJOKzxJ5M" frameborder="0" allowfullscreen></iframe> 
         </div>
 
-        <div class="col-sm-3 col-xs-6">
+        <div class="col-lg-3 col-sm-3 col-xs-12">
             <a href="http://www.fullsailblog.com/full-sail-students-win-peoples-choice-award-at-nasa-space-apps-challenge/" target="_blank">
                 <img class="img-responsive img-hover img-related" src="/assets/images/blog.png" alt="nasa space_Apps_Challenge_2015 full_Sail_University">
             </a>

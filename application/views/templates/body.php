@@ -93,6 +93,34 @@
 
     </div>
     <!-- /.row -->
+    
+        <!-- Features Section -->
+    <div class="row">
+        <div class="col-lg-12 text-center">
+            <h2 class="page-header">Highlights and Qualifications:</h2>
+        </div>
+        
+        <div class="col-md-6">
+            <img class="img-responsive" src="/assets/images/nasaBlog.png" alt="">
+        </div>
+        <div class="col-md-6">
+            <p></p>
+            <ul>
+                <li>Eight years of professional experience as an Administration/IT clerk in the United States Marine Corps</li>
+                <li>Self-motivated, highly organized, and proven ability to work efficiently and effectively under pressure in order to meet deadlines</li>
+                <li>Proven skill in persevering to solve customers’ problems</li>
+                <li>Competent in Web research, written and oral communications, records management, desktop publishing, computer software troubleshooting, and proof reading and editing business documents</li>
+                <li>Proficient with Microsoft Word, Excel, Access, PowerPoint, Publisher, and Outlook</li>
+                <li>Successful in learning and comprehending new systems and methods</li>
+            </ul>
+            <p></p>
+        </div>
+        
+    </div>
+    <!-- /.row -->
+
+    <hr>
+
 
     <!-- Portfolio Section -->
     <div class="row">
@@ -132,38 +160,12 @@
         </div>
         <div class="col-md-4 col-sm-6">
             <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="/assets/images/awards.jpg" alt="">
+                <img class="img-responsive img-portfolio img-hover" src="/assets/images/mindsEye2.jpg" alt="">
             </a>
         </div>
     </div>
     <!-- /.row -->
 
-    <!-- Features Section -->
-    <div class="row">
-        <div class="col-lg-12 text-center">
-            <h2 class="page-header">Highlights and Qualifications:</h2>
-        </div>
-        
-        <div class="col-md-6">
-            <img class="img-responsive" src="/assets/images/nasaBlog.png" alt="">
-        </div>
-        <div class="col-md-6">
-            <p></p>
-            <ul>
-                <li>Eight years of professional experience as an Administration/IT clerk in the United States Marine Corps</li>
-                <li>Self-motivated, highly organized, and proven ability to work efficiently and effectively under pressure in order to meet deadlines</li>
-                <li>Proven skill in persevering to solve customers’ problems</li>
-                <li>Competent in Web research, written and oral communications, records management, desktop publishing, computer software troubleshooting, and proof reading and editing business documents</li>
-                <li>Proficient with Microsoft Word, Excel, Access, PowerPoint, Publisher, and Outlook</li>
-                <li>Successful in learning and comprehending new systems and methods</li>
-            </ul>
-            <p></p>
-        </div>
-        
-    </div>
-    <!-- /.row -->
-
-    <hr>
 
     <!-- Call to Action Section -->
     <div class="well">

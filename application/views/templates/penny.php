@@ -29,18 +29,18 @@
                 <!-- Wrapper for slides -->
                 <div class="carousel-inner">
                     <div class="item active">
-                        <a href="https://projectunkown-vcabieles.c9.io/" target="_blank">
-                            <img class="img-responsive" src="/assets/images/projectUnknownMain750x500.png" alt="">
+                        <a href="https://pennypincher-calicci.c9.io/" target="_blank">
+                            <img class="img-responsive" src="/assets/images/food.jpg" alt="pennyPincher fullSailUniversity webDesignAndDevelopment">
                         </a>
                     </div>
                     <div class="item">
-                        <a href="https://projectunkown-vcabieles.c9.io/" target="_blank">
-                            <img class="img-responsive" src="/assets/images/projectUnknownModal750x500.png" alt="">
+                        <a href="https://pennypincher-calicci.c9.io/" target="_blank">
+                            <img class="img-responsive" src="/assets/images/penny.png" alt="pennyPincher fullSailUniversity webDesignAndDevelopment">
                         </a>
                     </div>
                     <div class="item">
-                        <a href="https://projectunkown-vcabieles.c9.io/inedit" target="_blank">
-                            <img class="img-responsive" src="/assets/images/projectUnknownCMS750x500.png" alt="">
+                        <a href="https://pennypincher-calicci.c9.io/" target="_blank">
+                            <img class="img-responsive" src="/assets/images/foodResults.png" alt="pennyPincher fullSailUniversity webDesignAndDevelopment">
                         </a>
                     </div>
                 </div>
@@ -61,7 +61,7 @@
 
             <h3 class="text-center">Project Details:</h3>
             <ul>
-                <li>Sign up and login with your Facebook account in a little as one click!</li>
+                <li>Sign up and login with your Facebook account in as little as one click!</li>
                 <li>Click the find deals button below to initiate a search.</li>
                 <li>Select your favorite deal and go get some food! Don't forget to like and share our App!</li>
             </ul>

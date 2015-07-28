@@ -4,7 +4,7 @@
         <footer>
             <div class="row navbar navbar-inverse navbar-fixed-bottom">
                 <div class="col-lg-12">
-                    <p class="text-center">Copyright &copy; Steve Drees</p>
+                    <p class="text-center">Copyright &copy; Steve Drees 2015</p>
                 </div>
             </div>
         </footer>
