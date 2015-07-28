@@ -1,0 +1,5 @@
+# Ignore large un needed parts 
+assets/images
+
+readme.rst
+git-credential-osxkeychain
