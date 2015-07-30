@@ -8,8 +8,8 @@
                 <small>Static Showdown 2015</small>
             </h1>
             <ol class="breadcrumb">
-                <li><a href="index">Home</a>
-                </li>
+                <li><a href="index">Home</a></li>
+                <li><a href="projects">Projects</a></li>
                 <li class="active">Work <>verload</li>
             </ol>
         </div>
@@ -71,30 +71,18 @@
     <div class="row">
 
         <div class="col-lg-12">
-            <h3 class="page-header">Press information: </h3>
+            <h3 class="page-header text-center">Other information: </h3>
         </div>
-
-        <div class="col-sm-3 col-xs-6">
-            <a href="https://projectunkown-vcabieles.c9.io/" target="_blank">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
-
-        <div class="col-sm-3 col-xs-6">
-            <a href="http://spaceappsksc.tumblr.com/post/116303202714/space-apps-weekend-in-central-florida" target="_blank">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
-
-        <div class="col-sm-3 col-xs-6">
-            <a href="#">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
-
-        <div class="col-sm-3 col-xs-6">
+        
+        <div class="col-sm-6 col-xs-6">
             <a href="http://2015.staticshowdown.com/teams/goms" target="_blank">
-                <img class="img-responsive img-hover img-related" src="/assets/images/blog.png" alt="nasa space_Apps_Challenge_2015 full_Sail_University">
+                <img class="img-responsive img-hover img-related" src="/assets/images/overloadStatic.png" alt="">
+            </a>
+        </div>
+
+        <div class="col-sm-6 col-xs-6">
+            <a href="http://2015.staticshowdown.com/teams/goms" target="_blank">
+                <img class="img-responsive img-hover img-related" src="/assets/images/overloadStaticMain.png" alt="">
             </a>
         </div>
 

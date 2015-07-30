@@ -30,7 +30,6 @@
                 <h2 class="caption">Web Development</h2>
             </div>
         </div>
-
     </div>
 
     <!-- Controls -->
@@ -61,8 +60,8 @@
                     <h4 class="text-center"><i class="fa fa-fw fa-compass"></i>Beginning of idea</h4>
                 </div>
                 <div class="panel-body">
-                    <p></p>
-                    <a href="#" class="btn btn-default center-block">Learn More</a>
+                    <p>Do you have a project? Do you have an idea? Do you need to sell or promote an item or yourself? If that is the case then you have come to the right place.</p>
+                    <a href="/index.php/pages/contact" class="btn btn-default center-block">Learn More</a>
                 </div>
             </div>
         </div>
@@ -73,8 +72,8 @@
                     <h4 class="text-center"><i class="fa fa-fw fa-gift"></i>Middle of idea</h4>
                 </div>
                 <div class="panel-body">
-                    <p></p>
-                    <a href="#" class="btn btn-default center-block">Learn More</a>
+                    <p>Are you stuck for ideas? Do you need to motivation? Well look no further, I can help.</p>
+                    <a href="/index.php/pages/contact" class="btn btn-default center-block">Learn More</a>
                 </div>
             </div>
         </div>
@@ -85,21 +84,19 @@
                     <h4 class="text-center"><i class="fa fa-fw fa-check"></i>Completion of idea</h4>
                 </div>
                 <div class="panel-body">
-                    <p></p>
-                    <a href="#" class="btn btn-default center-block">Learn More</a>
+                    <p>READY, SET, LET'S GO!!!!!</p>
+                    <a href="/index.php/pages/contact" class="btn btn-default center-block">Learn More</a>
                 </div>
             </div>
         </div>
-
     </div>
     <!-- /.row -->
     
-        <!-- Features Section -->
+    <!-- Features Section -->
     <div class="row">
         <div class="col-lg-12 text-center">
             <h2 class="page-header">Highlights and Qualifications:</h2>
         </div>
-        
         <div class="col-md-6">
             <img class="img-responsive" src="/assets/images/nasaBlog.png" alt="">
         </div>
@@ -120,52 +117,6 @@
     <!-- /.row -->
 
     <hr>
-
-
-    <!-- Portfolio Section -->
-    <div class="row">
-
-        <div class="col-lg-12">
-            <h2 class="page-header text-center">Art Work</h2>
-        </div>
-
-        <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="/assets/images/minds_eye.png" alt="minds-eye">
-            </a>
-        </div>
-
-        <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="/assets/images/tree.png" alt="tree-art">
-            </a>
-        </div>
-
-        <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="/assets/images/Mario.jpg" alt="">
-            </a>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="/assets/images/King Kong.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="/assets/images/Little Mac.jpg" alt="">
-            </a>
-        </div>
-        <div class="col-md-4 col-sm-6">
-            <a href="portfolio-item.html">
-                <img class="img-responsive img-portfolio img-hover" src="/assets/images/mindsEye2.jpg" alt="">
-            </a>
-        </div>
-    </div>
-    <!-- /.row -->
-
 
     <!-- Call to Action Section -->
     <div class="well">

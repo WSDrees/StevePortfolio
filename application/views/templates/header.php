@@ -47,13 +47,10 @@
                     <a href="/index.php/pages/about">About</a>
                 </li>
                 <li>
-                    <a href="/index.php/pages/services">Services</a>
+                    <a href="/index.php/pages/projects">Projects</a>
                 </li>
                 <li>
                     <a href="/index.php/pages/contact">Contact</a>
-                </li>
-                <li class="dropdown">
-                    <a href="/index.php/pages/projects">Projects</a>
                 </li>
             </ul>
         </div>

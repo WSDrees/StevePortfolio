@@ -32,7 +32,7 @@
                     5832 Auvers Blvd<br>Orlando, FL 32807<br>
                 </p>
                 <p><i class="fa fa-phone"></i> 
-                    <abbr title="Phone">P</abbr>: (407) 864-8941</p>
+                    <abbr title="Phone">P</abbr>:<a href="tel:+14078648941"> (407) 864-8941</p></a>
                 <p><i class="fa fa-envelope-o"></i> 
                     <abbr title="Email">E</abbr>: <a href="mailto:steve.drees@live.com">steve.drees@live.com</a>
                 </p>
@@ -86,7 +86,7 @@
                         </div>
                     </div>
                     <div id="success"></div>
-                    <!-- For success/fail messages -->
+                     For success/fail messages 
                     <button type="submit" class="btn btn-primary">Send Message</button>
                 </form>
             </div>

@@ -6,8 +6,8 @@
         <div class="col-lg-12">
             <h1 class="page-header">Penny Pincher</h1>
             <ol class="breadcrumb">
-                <li><a href="index">Home</a>
-                </li>
+                <li><a href="index">Home</a></li>
+                <li><a href="projects">Projects</a></li>
                 <li class="active">Penny Pincher</li>
             </ol>
         </div>
@@ -71,37 +71,37 @@
     <!-- /.row -->
 
     <!-- Related Projects Row -->
-    <div class="row">
+    <!--<div class="row">-->
 
-        <div class="col-lg-12">
-            <h3 class="page-header">Press information: </h3>
-        </div>
+    <!--    <div class="col-lg-12">-->
+    <!--        <h3 class="page-header">Press information: </h3>-->
+    <!--    </div>-->
 
-        <div class="col-sm-3 col-xs-6">
-            <a href="https://projectunkown-vcabieles.c9.io/" target="_blank">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
+    <!--    <div class="col-sm-3 col-xs-6">-->
+    <!--        <a href="#" target="_blank">-->
+    <!--            <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">-->
+    <!--        </a>-->
+    <!--    </div>-->
 
-        <div class="col-sm-3 col-xs-6">
-            <a href="http://spaceappsksc.tumblr.com/post/116303202714/space-apps-weekend-in-central-florida" target="_blank">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
+    <!--    <div class="col-sm-3 col-xs-6">-->
+    <!--        <a href="#" target="_blank">-->
+    <!--            <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">-->
+    <!--        </a>-->
+    <!--    </div>-->
 
-        <div class="col-sm-3 col-xs-6">
-            <a href="#">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
+    <!--    <div class="col-sm-3 col-xs-6">-->
+    <!--        <a href="#">-->
+    <!--            <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">-->
+    <!--        </a>-->
+    <!--    </div>-->
 
-        <div class="col-sm-3 col-xs-6">
-            <a href="http://www.fullsailblog.com/full-sail-students-win-peoples-choice-award-at-nasa-space-apps-challenge/" target="_blank">
-                <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
+    <!--    <div class="col-sm-3 col-xs-6">-->
+    <!--        <a href="#"target="_blank">-->
+    <!--            <img class="img-responsive img-hover img-related" src="http://placehold.it/500x300" alt="">-->
+    <!--        </a>-->
+    <!--    </div>-->
 
-    </div>
+    <!--</div>-->
     <!-- /.row -->
 
     <hr>

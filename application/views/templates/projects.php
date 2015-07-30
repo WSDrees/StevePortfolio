@@ -67,15 +67,16 @@
         <!-- Project Four -->
         <div class="row">
             <div class="col-md-7">
-                <a href="#">
+                <a href="http://www.makerfaireorlando.com/maker/web-on-the-rocks/" target="_blank">
                     <img class="img-responsive img-hover" src="/assets/images/web_on_the_run.png" alt="work_overload static_showdown">
                 </a>
             </div>
             <div class="col-md-5">
                 <h2 class="text-center">Web on the Run</h2>
-                <h4 class="text-center">Web on the Rocks</h4>
+                <h4 class="text-center"><em>CURRENT PROJECT</em></h4>
+                <p><strong>COMING SOON!</strong></p>
                 <p>We love creating things. All things web is our speciality but we do absolutely everything we can to be diverse and learn and little bit about everything. Electronics are our passion and creating them is even more amazing. We are the right mixture of programmers, designers, developers, thinkers, and makers. So we have become the perfect Web On The Rocks.</p>
-                <a class="btn btn-primary" href="#">View Details</a>
+                <a class="btn btn-primary" href="http://www.makerfaireorlando.com/maker/web-on-the-rocks/" target="_blank">View Details</a>
             </div>
         </div>
         <!-- /.row -->
